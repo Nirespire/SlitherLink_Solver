@@ -13,11 +13,11 @@ LISP implementation of a playable and self-solving game of SlitherLink
 Developed for the CLISP runtime environment
 
 Files Included:
-	* slither.lisp
-	* boards.lisp
-	* validators.lisp
-	* solver.lisp
-	* solverUtil.lisp
+* slither.lisp
+* boards.lisp
+* validators.lisp
+* solver.lisp
+* solverUtil.lisp
 
 ##Instructions to Execute:
 
