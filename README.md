@@ -1,6 +1,8 @@
 SlitherLink_Solver
 ==================
 
+[![ghit.me](https://ghit.me/badge.svg?repo=Nirespire/SlitherLink_Solver)](https://ghit.me/repo/Nirespire/SlitherLink_Solver)
+
 Sanjay Nair
 
 CAP 5635
